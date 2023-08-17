@@ -168,3 +168,8 @@ function restartGame() {
     gridCont.style.display = 'none';
     clearBoard();
 }
+
+
+  
+   
+  
